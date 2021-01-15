@@ -9,9 +9,9 @@ print("|                                 |")
 print("|                                 |")
 print("|---------------------------------|")
 print("|                                 |")
-print("|   Manufacturer :    maziar      |")
-print("|                                 |")
-print("|                                 |")
+print("|   Manufacturer : jokerhack      |")
+print("|Channel Telegram:                |")
+print("|             @jokerhack_channel  |")
 print("###################################")
 
 
@@ -24,4 +24,4 @@ for i in l:
     sleep(1.5)
 print()
 
-print("code : 6283" or "9473" or "9272")
+print("code : 6283" or "9473" or "9272" or "8590" )
